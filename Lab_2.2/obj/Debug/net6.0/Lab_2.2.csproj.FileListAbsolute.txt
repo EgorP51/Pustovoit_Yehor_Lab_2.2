@@ -1,0 +1,17 @@
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\bin\Debug\net6.0\Lab_2.2.exe
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\bin\Debug\net6.0\Lab_2.2.deps.json
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\bin\Debug\net6.0\Lab_2.2.runtimeconfig.json
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\bin\Debug\net6.0\Lab_2.2.dll
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\bin\Debug\net6.0\Lab_2.2.pdb
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.AssemblyInfoInputs.cache
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.AssemblyInfo.cs
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.dll
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\refint\Lab_2.2.dll
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.pdb
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.genruntimeconfig.cache
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\ref\Lab_2.2.dll
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Egor\source\repos\Lab_2.2\Lab_2.2\obj\Debug\net6.0\Lab_2.2.csproj.CopyComplete
